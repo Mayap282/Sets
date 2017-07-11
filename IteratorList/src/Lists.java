@@ -9,7 +9,6 @@ public class Lists {
 	
 	public static void main(String[] args) {
 		
-		Employee  e = new Employee();
 		
 		   List<String> l = new ArrayList<>();
 		   l.add("a");
@@ -24,11 +23,6 @@ public class Lists {
 		   }
 			
 			System.out.println("\n");
-			/*for (String str : l) {
-				
-				System.out.println(l);
-				
-			}*/
 			
 			int arr[]={2,100,2,200,45,65,3,4,2,5,6,1};
 			//hashset stores the unique values but it may in random order
